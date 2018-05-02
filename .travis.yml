@@ -9,7 +9,8 @@ script:
 notifications:
   email:
     recipients:
+      - hyun02.engineer@gmail.com
       - ngh3053@gmail.com
+      - cyh905@gmail.com
     on_success: always
     on_failure: always
-
